@@ -57,9 +57,9 @@ The dataset used for this project contains information about bank customers, inc
 The Bank Customer Churn Prediction Model provides valuable insights into customer behavior and helps the bank take proactive measures to retain customers. By understanding the key factors that drive churn, the bank can develop targeted strategies to improve customer satisfaction and loyalty.  
 
 # Future Work
-Model Improvement: Explore advanced techniques such as ensemble learning and hyperparameter tuning to improve model performance.   
-Feature Engineering: Create new features based on domain knowledge to enhance the model’s predictive power.  
-Real-Time Predictions: Integrate the model into the bank’s CRM system for real-time churn predictions.  
+*  __Model Improvement:__ Explore advanced techniques such as ensemble learning and hyperparameter tuning to improve model performance.
+*  __Feature Engineering:__ Create new features based on domain knowledge to enhance the model’s predictive power.
+*  __Real-Time Predictions:__ Integrate the model into the bank’s CRM system for real-time churn predictions.  
 
 
 
