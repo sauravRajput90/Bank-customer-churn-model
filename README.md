@@ -34,11 +34,11 @@ The dataset used for this project contains information about bank customers, inc
 -__Churn__- Whether the customer has churned (1 = Yes, 0 = No).  
 
 # Methodology
-1- **Data Preprocessing**
+### 1- **Data Preprocessing**
   * Handle missing values.  
   * Encode categorical variables.  
   * Scale numerical features.
-2- **Exploratory Data Analysis (EDA)**
+### 2- **Exploratory Data Analysis (EDA)**
   * Visualize data distributions.
   * Identify correlations between features and churn.
 3- **Model Development**
