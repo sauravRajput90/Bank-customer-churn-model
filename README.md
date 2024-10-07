@@ -1,14 +1,9 @@
 # Bank-customer-churn-model
 
-NAME- SAURAV KASHYAP  
-COMPANY- Ybi Foundation   
-Credential ID - P23LSJ9AC4MU  
-DOMAIN-Data Analysis  
-DURATION-2 months  
 
 # OVERVIEW OF THE PROJECT  
 
-# **Project : Bank customer churn model**
+
 
 This project aims to predict customer churn in a bank using machine learning techniques. Customer churn refers to the loss of clients or customers. By predicting which customers are likely to leave, the bank can take proactive measures to retain them, thereby improving customer satisfaction and profitability.  
 
